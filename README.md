@@ -1,1 +1,1 @@
-# Finite-Element-Method in C++
+# Finite Element Method in C++
